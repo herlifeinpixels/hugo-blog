@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Midnight Muse</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on The Midnight Muse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2017 15:03:14 -0400</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Wed, 23 Aug 2017 15:03:14 -0400</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>The city melts into a seductive glow. Colours dance in still moments. After a while I can&amp;rsquo;t tell whether the hues come from my synesthesia, or from the refractions of the scratches on my glasses. Ah midnight, when reality and imagination blends into one. Like a muse, it beckons me to come.</description>
+    </item>
+    
+  </channel>
+</rss>

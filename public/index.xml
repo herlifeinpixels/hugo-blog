@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Midnight Muse</title>
+    <link>/</link>
+    <description>Recent content on The Midnight Muse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2017 16:13:10 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gallery</title>
+      <link>/gallery/</link>
+      <pubDate>Wed, 23 Aug 2017 16:13:10 -0400</pubDate>
+      
+      <guid>/gallery/</guid>
+      <description>In progresss!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 23 Aug 2017 15:40:43 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&amp;ldquo;Midnight Muse Is an ongoing visual project by @herlifeinpixels to capture the fleeting emotions of the night time. Prints available.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Wed, 23 Aug 2017 15:03:14 -0400</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>The city melts into a seductive glow. Colours dance in still moments. After a while I can&amp;rsquo;t tell whether the hues come from my synesthesia, or from the refractions of the scratches on my glasses. Ah midnight, when reality and imagination blends into one. Like a muse, it beckons me to come.</description>
+    </item>
+    
+  </channel>
+</rss>
